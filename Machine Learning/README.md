@@ -1,4 +1,4 @@
-#### This folder will contain teaching materials for WaterSoftHack 2025 on Machine Learning.
+#### Machine Learning (ML) Applications in Water Science.
 
 ### Day 1: Introduction and Data Preprocessing
 
