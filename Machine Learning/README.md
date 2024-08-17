@@ -63,7 +63,7 @@
 - LSTMs and GRUs for long-term hydrological forecasting
 
 
-#### Training Neural Networks and Hyperparamter optimization
+#### Training Neural Networks and Hyperparameter optimization
 - Standard Techniques
 
 ### Day 5: Applications and Project Preparation
@@ -80,5 +80,5 @@
 #### Hackathon Preparation and Best Practices
 
 - Discussing potential project ideas
-- Best practices for ML projects in hydrology
-- Model evaluation and validation techniques specific to hydrological data
+- Best practices for ML projects in water science
+- Model evaluation and validation techniques specific to water science data
