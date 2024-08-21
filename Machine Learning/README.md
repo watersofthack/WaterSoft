@@ -35,12 +35,12 @@
 - K-means for grouping similar watersheds
 - Hierarchical clustering for hydrological regime classification
 
-
+/*
 #### Dimensionality Reduction and Ensemble Methods
 
 - PCA for simplifying complex hydrological datasets
 - Ensemble methods (bagging, boosting) for improved predictions
-
+*/
 
 ### Day 3: Advanced ML Techniques
 
