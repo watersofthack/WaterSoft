@@ -1,28 +1,20 @@
-#### This folder will contain teaching materials for WaterSoftHack 2025 on Machine Learning.
+#### Machine Learning (ML) Applications in Water Science.
 
 ### Day 1: Introduction and Data Preprocessing
 
-#### Introduction to ML in Hydrology
 
-- Overview of ML applications in water sciences
-- Types of problems ML can solve in hydrology
+#### Data Preprocessing for Hydrological Data 
 
-
-#### Advanced Data Preprocessing for Hydrological Data 
-
-- Handling time series data in hydrology
+- Handling time series data in water science
 - Dealing with missing values and outliers in water data
 - Feature engineering for hydrological variables
 
 
-### Day 2: Regression and Classification Techniques
-
-#### Advanced Regression Techniques 
+#### Regression Techniques 
 
 - Multiple regression with interaction terms
 - Polynomial regression for non-linear hydrological relationships
 - Regularization techniques (Lasso, Ridge, Elastic Net)
-
 
 #### Classification in Hydrology (1.5 hours)
 
@@ -31,10 +23,7 @@
 - Support Vector Machines for water quality classification
 
 
-### Day 3: Time Series Analysis and Clustering
-
-
-#### Time Series Analysis for Hydrological Forecasting
+### Day 2: Time Series Analysis and Clustering
 
 - ARIMA models for streamflow prediction
 - SARIMA for seasonal hydrological data
@@ -52,6 +41,7 @@
 - PCA for simplifying complex hydrological datasets
 - Ensemble methods (bagging, boosting) for improved predictions -->
 
+### Day 3: Advanced ML Techniques
 
 ### Day 4: Simple to Advanced ML Techniques
 
@@ -80,5 +70,5 @@
 #### Hackathon Preparation and Best Practices (Add it to the powerpoint)
 
 - Discussing potential project ideas
-- Best practices for ML projects in hydrology
-- Model evaluation and validation techniques specific to hydrological data
+- Best practices for ML projects in water science
+- Model evaluation and validation techniques specific to water science data
