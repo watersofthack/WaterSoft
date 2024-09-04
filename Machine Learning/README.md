@@ -25,7 +25,7 @@ _#### Classification in Hydrology (1.5 hours)_
 
 - ARIMA models for streamflow prediction
 - SARIMA for seasonal hydrological data
-- Prophet for trend and seasonality decomposition
+_- Prophet for trend and seasonality decomposition_
 
 
 #### Clustering in Hydrology
