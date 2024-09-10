@@ -72,3 +72,16 @@
 - Discussing potential project ideas
 - Best practices for ML projects in water science
 - Model evaluation and validation techniques specific to water science data
+
+
+
+
+
+1. Intro to time series analysis, use cases, data preprocessing in timeseries anlaysis, basic descriptive analysis on time series data
+2. Regression, Classification and Clustering techniques
+3. ARIMA and SARIMA modelling
+4. Neural Networks, MLP, LSTM, GRU, Transformer
+5. Hyperparameter Optimization and best practices in NN training, hackathon preparation
+
+Use monthly data from trend analysis with ARIMA and SARIMA
+Use daily data for other advanced models (lstm, gru, mlp)
