@@ -2,13 +2,11 @@
 
 ### Day 1: Introduction and Data Preprocessing
 
-
 #### Data Preprocessing for Hydrological Data 
 
 - Handling time series data in water science
 - Dealing with missing values and outliers in water data
 - Feature engineering for hydrological variables
-
 
 #### Regression Techniques 
 
@@ -16,7 +14,7 @@
 - Polynomial regression for non-linear hydrological relationships
 - Regularization techniques (Lasso, Ridge, Elastic Net)
 
-#### Classification in Hydrology (1.5 hours)
+_#### Classification in Hydrology (1.5 hours)_
 
 - Logistic regression for binary outcomes (e.g., flood occurrence)
 - Decision trees and Random Forests for multi-class problems
@@ -27,7 +25,7 @@
 
 - ARIMA models for streamflow prediction
 - SARIMA for seasonal hydrological data
-- Prophet for trend and seasonality decomposition
+  - Prophet for trend and seasonality decomposition_
 
 
 #### Clustering in Hydrology
@@ -41,19 +39,18 @@
 - PCA for simplifying complex hydrological datasets
 - Ensemble methods (bagging, boosting) for improved predictions -->
 
-### Day 3: Advanced ML Techniques
 
-### Day 4: Simple to Advanced ML Techniques
+### Day 3: Simple to Advanced ML Techniques
 
 
 #### Neural Networks and Deep Learning in Hydrology
 
-- Feedforward Neural Networks for water quality prediction
+- Feedforward Neural Networks for river-level prediction
 <!-- - CNNs for analyzing satellite imagery of water bodies -->
 - LSTMs and GRUs for long-term hydrological forecasting
 - Transformer Models
 
-#### Training Neural Networks and Hyperparamter optimization
+#### Training Neural Networks and Hyperparameter optimization
 - Standard Techniques
 
 ### Day 5: Applications and Project Preparation
@@ -67,7 +64,7 @@
 - Drought prediction using multiple ML techniques
 
 
-#### Hackathon Preparation and Best Practices (Add it to the powerpoint)
+#### Hackathon Preparation and Best Practices (Add it to the PowerPoint)
 
 - Discussing potential project ideas
 - Best practices for ML projects in water science
