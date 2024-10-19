@@ -4,40 +4,16 @@
 
 #### Data Preprocessing for Hydrological Data 
 
-- Handling time series data in water science
-- Dealing with missing values and outliers in water data
+- Handling time series data 
+- Dealing with missing values and outliers
 - Feature engineering for hydrological variables
 
-#### Regression Techniques 
 
-- Multiple regression with interaction terms
-- Polynomial regression for non-linear hydrological relationships
-- Regularization techniques (Lasso, Ridge, Elastic Net)
+### Day 2: Time Series Analysis and predictions using statistical methods
 
-_#### Classification in Hydrology (1.5 hours)_
-
-- Logistic regression for binary outcomes (e.g., flood occurrence)
-- Decision trees and Random Forests for multi-class problems
-- Support Vector Machines for water quality classification
-
-
-### Day 2: Time Series Analysis and Clustering
-
-- ARIMA models for streamflow prediction
-- SARIMA for seasonal hydrological data
-  - Prophet for trend and seasonality decomposition_
-
-
-#### Clustering in Hydrology
-
-- K-means for grouping similar watersheds
-- Hierarchical clustering for hydrological regime classification
-
-
-<!-- #### Dimensionality Reduction and Ensemble Methods
-
-- PCA for simplifying complex hydrological datasets
-- Ensemble methods (bagging, boosting) for improved predictions -->
+- ARIMA model
+- SARIMA model
+- Prophet for trend and seasonality decomposition_
 
 
 ### Day 3: Simple to Advanced ML Techniques
@@ -48,13 +24,11 @@ _#### Classification in Hydrology (1.5 hours)_
 - Feedforward Neural Networks for river-level prediction
 <!-- - CNNs for analyzing satellite imagery of water bodies -->
 - LSTMs and GRUs for long-term hydrological forecasting
+
+
+### Day 4: Applications and Project Preparation
 - Transformer Models
-
-#### Training Neural Networks and Hyperparameter optimization
-- Standard Techniques
-
-### Day 5: Applications and Project Preparation
-
+- Hyperparameter tuning
 
 #### Case Studies and Applications
 
@@ -62,23 +36,3 @@ _#### Classification in Hydrology (1.5 hours)_
 - Groundwater level forecasting with LSTM networks
 - Water quality assessment using CNN on satellite data
 - Drought prediction using multiple ML techniques
-
-
-#### Hackathon Preparation and Best Practices (Add it to the PowerPoint)
-
-- Discussing potential project ideas
-- Best practices for ML projects in water science
-- Model evaluation and validation techniques specific to water science data
-
-
-
-
-
-1. Intro to time series analysis, use cases, data preprocessing in timeseries anlaysis, basic descriptive analysis on time series data
-2. Regression, Classification and Clustering techniques
-3. ARIMA and SARIMA modelling
-4. Neural Networks, MLP, LSTM, GRU, Transformer
-5. Hyperparameter Optimization and best practices in NN training, hackathon preparation
-
-Use monthly data from trend analysis with ARIMA and SARIMA
-Use daily data for other advanced models (lstm, gru, mlp)
