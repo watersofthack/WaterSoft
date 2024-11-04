@@ -1,14 +1,27 @@
-#MLP & LSTM 
+## MLP & LSTM 
 
 Goals
+-
 
-
+- Get familiar with the basics of Neural Networks
+- Understand and implement time series prediction with multi level perceptron based neural networks
+- Understand and implement time seires prediction with LSTM (RNN).
 
 
 Learning Objectives
+-
 
+- Neural networks in timeseries prediction
+- Learn about Multi-level perceptrons
+- Learn about Recurrent Neural Networks (RNN)
+- Learn about Long Short-Term Memory (LSTM)
+- Learn how MLP based timeseries prediction can be done using Pytorch
+- Learn how LSTM can be implemented using Pytorch
+- Implementing and running neural networks using GPU
 
 
 Training Activities
--Run MLP with example data
--Run LSTM with example data
+-
+
+- Run MLP with example data
+- Run LSTM with example data

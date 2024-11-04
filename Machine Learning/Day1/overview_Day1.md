@@ -1,39 +1,35 @@
-#### Overview of ML applications in water sciences and the types of problems ML can solve in hydrology:
+## Day 1
 
-## Overview of ML applications in water sciences:
+Goals
+--
 
-### a) Hydrological Forecasting:
+- Understanding why ML is important
+- Understand role of Data in ML
+- Be Familiar with basic data pre-processing
 
-- Streamflow prediction
-- Flood forecasting
-- Drought prediction
-- Precipitation forecasting
+Learning Objectives
+--
 
-### b) Water Quality Assessment:
+- Describe what ML is
+- Know various sources of Data
+- Obtaining Data from USGS/NOAA
+- Understand the data you obtained
+- Understand timeseries data
+- Basic data exploration
+- Understand data representation in python/computers
+- Preliminary data pre-processing
+- Converting data into appropriate types
+- Identifying and filling up gaps in data
+- Identifying and removing outliers
+- Changing Resolution/Granularity of Data
+- Understand why data strandardization is necessary and know how to perform it
 
-- Pollution level prediction
-- Algal bloom detection and prediction
-- Contaminant source identification
 
-### c) Groundwater Management:
+Training Activities
+--
 
-- Aquifer characterization
-- Groundwater level prediction
-- Well yield estimation
+- Lecture based on all above topics
+- Obtaining data from USGS/NOAA
+- Run the provided code and understand what each function is doing
+- Obtain data from web, process it and merge it to obtain cleaned up data for further processing
 
-### d) Climate Change Impact Analysis:
-
-- Long-term water availability projections
-- Extreme event frequency and intensity prediction
-
-### e) Water Resource Management:
-
-- Optimal reservoir operation
-- Irrigation scheduling
-- Water demand forecasting
-
-### f) Remote Sensing Applications:
-
-- Satellite image analysis for water body detection
-- Snow cover estimation
-- Soil moisture prediction

@@ -1,13 +1,24 @@
-
+## Day 4
 Goals
+-
 
-
+- Timeseries prediction using Transformer model
+- Optimizing hyperparameters
 
 
 Learning Objectives
+- 
 
+- Get familiar with the Transformer architecture
+- Timeseries prediction using Transformer 
+- Understand the implementation of transformer model for timeseris prediction in pytorch
+- Get familiar with various hyperparameters in Neural Networks
+- Hyperparamter optimization using optuna
 
 
 Training Activities
--Run Tranformers with example data
--Overfitting and perfrmance assessment
+- 
+
+- Run Tranformers with example data
+- Overfitting and perfrmance assessment
+- Run and understand hyperparamter optimization using Optuna
