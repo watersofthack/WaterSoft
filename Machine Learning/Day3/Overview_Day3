@@ -3,25 +3,19 @@
 Goals
 -
 
-- Get familiar with the basics of Neural Networks
-- Understand and implement time series prediction with multi level perceptron based neural networks
-- Understand and implement time seires prediction with LSTM (RNN).
+- Understand the theory and concepts of Neural Networks
+- Understand different Neural Networks and their applications in water science
+
 
 
 Learning Objectives
 -
 
-- Neural networks in timeseries prediction
-- Learn about Multi-level perceptrons
-- Learn about Recurrent Neural Networks (RNN)
-- Learn about Long Short-Term Memory (LSTM)
-- Learn how MLP based timeseries prediction can be done using Pytorch
-- Learn how LSTM can be implemented using Pytorch
-- Implementing and running neural networks using GPU
-
+- Learn different functionalities of Neural Networks with multi-level perceptron-based models
+- Learn different functionalities of Neural Networks with a Recurrent Neural Network-Long Short Term Memory (LSTM) model 
 
 Training Activities
 -
 
-- Run MLP with example data
-- Run LSTM with example data
+- Implement MLP with example data in Python
+- Implement LSTM with example data in Python
