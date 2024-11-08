@@ -21,7 +21,8 @@ Learning Objectives
 
 Training Activities
 --
-- Obtain a sample data from USGS/NOAA
+- Obtain a sample data
+- Learn dfferent preprocessing/quality control methods
 - Run the provided code and fill the missing values
 - Implement the pre-processing methods
 
