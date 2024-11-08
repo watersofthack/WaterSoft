@@ -5,13 +5,13 @@ Goals
 
 - To preprocess the data
 - To Understand the role of data in modeling
-- To be Familiar with diffeent data pre-processing methods
+- To be familiar with different data pre-processing methods
 
 Learning Objectives
 --
 
 - Describe multiple data pre-processing techniques
-- Access and download various sources of data manually or through Application Programming Inteface (API)
+- Access and download various sources of data manually or through Application Programming Interface (API)
 - Understand time series data variability and data gaps
 - Converting data into appropriate type and format
 - Identifying outliers and filling the gaps in data
