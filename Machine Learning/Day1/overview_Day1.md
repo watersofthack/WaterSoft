@@ -3,33 +3,25 @@
 Goals
 --
 
-- Understanding why ML is important
-- Understand role of Data in ML
-- Be Familiar with basic data pre-processing
+- To preprocess the data
+- To Understand the role of data in modeling
+- To be Familiar with diffeent data pre-processing methods
 
 Learning Objectives
 --
 
-- Describe what ML is
-- Know various sources of Data
-- Obtaining Data from USGS/NOAA
-- Understand the data you obtained
-- Understand timeseries data
-- Basic data exploration
-- Understand data representation in python/computers
-- Preliminary data pre-processing
-- Converting data into appropriate types
-- Identifying and filling up gaps in data
-- Identifying and removing outliers
-- Changing Resolution/Granularity of Data
-- Understand why data strandardization is necessary and know how to perform it
+- Describe multiple data pre-processing techniques
+- Access and download various sources of data manually or through Application Programming Inteface (API)
+- Understand time series data variability and data gaps
+- Converting data into appropriate type and format
+- Identifying outliers and filling the gaps in data
+- Aggregate/disaggregate time series data
+- Implement data strandardization methods in python
 
 
 Training Activities
 --
-
-- Lecture based on all above topics
-- Obtaining data from USGS/NOAA
-- Run the provided code and understand what each function is doing
-- Obtain data from web, process it and merge it to obtain cleaned up data for further processing
+- Obtain a sample data from USGS/NOAA
+- Run the provided code and fill the missing values
+- Implement the pre-processing methods
 
