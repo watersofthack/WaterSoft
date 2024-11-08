@@ -16,7 +16,7 @@ Learning Objectives
 - Converting data into appropriate type and format
 - Identifying outliers and filling the gaps in data
 - Aggregate/disaggregate time series data
-- Implement data strandardization methods in python
+- Implement data standardization methods in python
 
 
 Training Activities
