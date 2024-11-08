@@ -15,7 +15,7 @@ Learning Objectives
 - Understand time series data variability and data gaps
 - Converting data into appropriate type and format
 - Identifying outliers and filling the gaps in data
-- Aggregate/disaggregate time series data
+- Aggregate time series data
 - Implement data standardization methods in python
 
 
