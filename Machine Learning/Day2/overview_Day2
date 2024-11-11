@@ -2,27 +2,19 @@
 
 Goals
 -
-
-- Understand timeseries data in detail
-- Learn about timeseries data forecasting
-- Learn how ARIMA and SARIMA work
+- Learn about time series data forecasting
+- Understand different regression methods for time series simulation
 
 
 
 Learning Objectives
 - 
-
-- Understand timeseries data forecasting
-- Understand how ARIMA works
-- Understand how SARIMA works
-- Understand what is the difference between ARIMA and SARIMA
-- Learn how to implement ARIMA and SARIMA in python
-- Learn about advantages and disadvantages of the models
-- Learn Applications of these models
+- Learn how to implement ARIMA and SARIMA in Python
+- Understand the advantages and disadvantages of these models
+- Learn Applications of these models for time series simulation
 
 Training Activities
 -
-
-- Run ARIMA with example data
-- Run SARIMA with example data
+- Implement ARIMA in Python with example data
+- Implement SARIMA in Python with example data
 
