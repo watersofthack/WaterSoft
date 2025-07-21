@@ -1,34 +1,31 @@
 #### Machine Learning (ML) Applications in Water Science.
 
-### Day 1: Introduction and Data Preprocessing
+---
 
-#### Data Preprocessing for Hydrological Data 
+### Day 2: Introduction to WaterSoftHack
 
-- Handling time series data 
+- Acqusition of data using APIs
+- Exploring time series data 
 - Dealing with missing values and outliers
 - Feature engineering for hydrological variables
-
-
-### Day 2: Time Series Analysis and predictions using statistical methods
-
 - ARIMA model
 - SARIMA model
-- Prophet for trend and seasonality decomposition_
 
+---
 
-### Day 3: Simple to Advanced ML Techniques
+### Day 3: Time Series Analysis and predictions using Neural Networks
 
+- Multi-Level Perceptron (MLP) Model
+- Long Short Term Memory (LSTM) Model
 
-#### Neural Networks and Deep Learning in Hydrology
+---
 
-- Feedforward Neural Networks for river-level prediction
-<!-- - CNNs for analyzing satellite imagery of water bodies -->
-- LSTMs and GRUs for long-term hydrological forecasting
+### Day 4:Advanced ML Techniques
 
+- Transformers for Time Series Forecasting
+- Hyperparameter Optimization
 
-### Day 4: Applications and Project Preparation
-- Transformer Models
-- Hyperparameter tuning
+---
 
 #### Case Studies and Applications
 
