@@ -16,7 +16,7 @@ The repository is divided into three main sections:
 
 ## 1. Data Analytics
 
-The **Data Analytics** section features **HydroSuite**, a collection of web-based tools developed by the **Hydroinformatics Lab at the University of Iowa**. These tools enable:
+The **Data Analytics** section features **HydroSuite**, a collection of web-based tools developed by the **Hydroinformatics Lab at Tulane University**. These tools enable:
 
 - Development of hydrologic web applications
 - Fast in-browser analysis
@@ -28,7 +28,7 @@ The objective is to demonstrate the use of web-based systems to improve current 
 
 ## 2. Machine Learning
 
-The **Machine Learning** section provides a series of tutorials focused on **time series processing** for hydrology-related datasets. Topics include:
+The **Machine Learning** section provides a series of tutorials focused on **time series processing** for water science-related datasets.These codes and materials are developed by Clemson Hydroinformatics Research Group. Topics include:
 
 - Data acquisition from multiple sources
 - Data exploration, cleaning, and preparation
@@ -43,4 +43,4 @@ Explore more [**here**](/Machine%20Learning/README.md).
 ## 3. Cloud Computing
 
 *(Coming soon)*  
-This section will include tutorials and tools for deploying hydrologic applications and models in cloud environments.
+This section will include tutorials and tools for deploying data analytics and machine learning models in cloud environments.

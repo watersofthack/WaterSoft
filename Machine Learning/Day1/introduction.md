@@ -1,7 +1,8 @@
 Scheduled Tasks
 **First Half**
 - Introduction to WaterSoftHack
-- Introduction to Data APIs
+- Data APIs
+- NSF NAIRR Resources
 
 **Second Half**
 - CUAHSI Presentation
