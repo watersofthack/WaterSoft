@@ -1,7 +1,7 @@
 Scheduled Tasks
 **First Half**
 - Introduction to WaterSoftHack
-- Data APIs
+- Google Colab
 - NSF NAIRR Resources
 
 **Second Half**
