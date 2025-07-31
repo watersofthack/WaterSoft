@@ -9,7 +9,6 @@ Goals
 - Understand different Neural Networks and their applications in water science
 
 
-
 Learning Objectives
 --
 
