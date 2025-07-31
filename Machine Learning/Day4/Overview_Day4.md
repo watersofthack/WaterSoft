@@ -3,7 +3,7 @@
 Goals
 --
 
-- Learn about time series data forecasting using Transformers models
+- Learn about time series data forecasting using Transformers 
 - Understand how to optimize hyperparameters
 
 
@@ -18,7 +18,7 @@ Learning Objectives
 Training Activities
 --
 
-- Understand the implementation of the transformer model for time series prediction in PyTorch
+- Understand the implementation of the Transformer model for time series prediction in PyTorch
 - Hyperparameter optimization using Optuna
-- understand overfitting and performance assessment
+- Understand overfitting and performance assessment
 
