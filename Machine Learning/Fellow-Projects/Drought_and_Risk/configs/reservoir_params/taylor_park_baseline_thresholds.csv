@@ -1,0 +1,6 @@
+Parameter,Threshold_Value,Percentile_Basis,Observed_Response
+Low Inflow Threshold,69 cfs,25th percentile of historical inflow,Avg release: 98 cfs
+High Inflow Threshold,189 cfs,75th percentile of historical inflow,Avg release: 316 cfs
+Critical Inflow Threshold,53 cfs,10th percentile of historical inflow,Avg release: 98 cfs
+Low Storage Threshold,63% full,25th percentile of historical storage,Avg release: 98 cfs
+High Storage Threshold,75% full,75th percentile of historical storage,Avg release: 617 cfs

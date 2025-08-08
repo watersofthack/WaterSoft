@@ -1,0 +1,4 @@
+Rank,Factor,Correlation,Explained_Variance_R2,Relative_Influence,Interpretation
+1,Inflow Level,0.691,0.477,56.7%,Moderate positive: Higher inflow → Higher releases
+2,Storage Level,0.604,0.365,43.3%,Moderate positive: Higher storage → Higher releases
+3,Month/Season,0.308,0.095,Seasonal modifier,Controls variability pattern of releases

@@ -1,0 +1,133 @@
+# Directory to store run results
+experiment_name: WaterSoft
+
+# files to specify training, validation and test basins (relative to code root or absolute path)
+train_basin_file: Transformer/Model/basin_list.txt
+validation_basin_file: Transformer/Model/basin_list.txt
+test_basin_file: Transformer/Model/basin_list.txt
+
+# training, validation and test time periods (format = 'dd/mm/yyyy')
+train_start_date: '01/04/1980'
+train_end_date: '31/12/2010'
+validation_start_date: '01/01/2011'
+validation_end_date: '31/12/2019'
+test_start_date: '01/01/2020'
+test_end_date: '31/12/2023'
+
+# Seed for reproducibility
+seed: 123
+
+device: cuda:0
+
+# Validation settings
+validate_every: 25
+validate_n_random_basins: 10
+metrics:
+- RMSE
+- Pearson-r
+- NSE
+- MSE
+- KGE
+
+# Model settings
+model: transformer
+head: regression
+
+# Transformer-specific hyperparameters
+transformer_positional_encoding_type: sum  # Options: 'sum' or 'concatenate'
+transformer_positional_dropout: 0.1
+transformer_nheads: 8  # Number of attention heads
+transformer_dim_feedforward: 512  # Feedforward layer size
+transformer_dropout: 0.1  # Dropout rate
+transformer_nlayers: 4  # Number of transformer layers
+
+# Static and dynamic embedding
+statics_embedding:
+  hiddens: [64, 128]
+dynamics_embedding:
+  hiddens: [64, 128]
+
+# Training configuration
+optimizer: Adam
+loss: MSE
+learning_rate:
+  0: 1e-3
+  1: 5e-4
+
+batch_size: 256
+epochs: 50
+clip_gradient_norm: 1
+predict_last_n: 1
+seq_length: 30
+num_workers: 0
+log_interval: 5
+log_tensorboard: True
+save_weights_every: 1
+save_validation_results: True
+
+dataset: generic
+
+# Path to data set
+data_dir: Transformer/Data
+
+# variables to use as time series input (names match the data file column headers)
+dynamic_inputs:
+- prcp
+- tmax
+
+# which columns to use as target
+target_variables:
+- streamflow
+
+static_attributes:
+  - p_mean
+  - pet_mean
+  - p_seasonality
+  - frac_snow
+  - aridity
+  - high_prec_freq
+  - high_prec_dur
+  - low_prec_freq
+  - low_prec_dur
+  - glim_1st_class_frac
+  - glim_2nd_class_frac
+  - geol_permeability
+  - q_mean
+  - runoff_ratio
+  - slope_fdc
+  - baseflow_index
+  - stream_elas
+  - q5
+  - q95
+  - high_q_freq
+  - high_q_dur
+  - low_q_freq
+  - low_q_dur
+  - hfd_mean
+  - huc_02
+  - soil_depth_pelletier
+  - soil_depth_statsgo
+  - soil_porosity
+  - soil_conductivity
+  - max_water_content
+  - sand_frac
+  - silt_frac
+  - clay_frac
+  - other_frac
+  - gauge_lat
+  - gauge_lon
+  - elev_mean
+  - slope_mean
+  - area_gages2
+  - area_geospa_fabric
+  - frac_forest
+  - lai_max
+  - lai_diff
+  - gvf_max
+  - gvf_diff
+  - dom_land_cover_frac
+  - root_depth_50
+  - root_depth_99
+
+  # !python -m neuralhydrology.nh_run train --config-file "Transformer/Model/transformer_v3.yml"
+  # !python -m neuralhydrology.nh_run evaluate --run_dir "<100epoch result Transformer/Model/WaterSoft_ddmm_#####>"
