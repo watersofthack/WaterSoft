@@ -1,0 +1,6 @@
+Zone,Storage_Range_Percent,Storage_Range_AF,Typical_Release_CFS,Release_Range_CFS,Days_Operated,Current_Practice
+1,37-50%,"45,824 af",99,59 - 190,548,Low release operations
+2,50-65%,"63,414 af",95,73 - 107,3644,Low release operations
+3,65-80%,"75,081 af",103,93 - 237,6131,Medium release operations
+4,80-90%,"90,082 af",309,271 - 372,1311,Medium release operations
+5,90-100%,"99,920 af",424,360 - 545,907,High release operations

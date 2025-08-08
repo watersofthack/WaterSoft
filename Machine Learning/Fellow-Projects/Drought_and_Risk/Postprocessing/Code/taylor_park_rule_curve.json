@@ -1,0 +1,153 @@
+{
+  "zones": [
+    {
+      "zone_name": "Zone_1",
+      "storage_range": [
+        36.752941176470586,
+        50
+      ],
+      "storage_range_str": "37-50%",
+      "days_in_zone": 548,
+      "release_mean": 146.50058394160584,
+      "release_median": 99.0,
+      "release_p25": 58.6975,
+      "release_p75": 190.0,
+      "release_min": 49.3,
+      "release_max": 674.0,
+      "avg_storage_af": 45824.29197080292
+    },
+    {
+      "zone_name": "Zone_2",
+      "storage_range": [
+        50,
+        65
+      ],
+      "storage_range_str": "50-65%",
+      "days_in_zone": 3644,
+      "release_mean": 121.70541605378706,
+      "release_median": 95.45,
+      "release_p25": 73.275,
+      "release_p75": 107.0,
+      "release_min": 45.2604,
+      "release_max": 692.0,
+      "avg_storage_af": 63413.620225027444
+    },
+    {
+      "zone_name": "Zone_3",
+      "storage_range": [
+        65,
+        80
+      ],
+      "storage_range_str": "65-80%",
+      "days_in_zone": 6131,
+      "release_mean": 158.9440746370902,
+      "release_median": 103.0,
+      "release_p25": 92.95,
+      "release_p75": 237.0,
+      "release_min": 27.02,
+      "release_max": 712.0,
+      "avg_storage_af": 75080.63428478225
+    },
+    {
+      "zone_name": "Zone_4",
+      "storage_range": [
+        80,
+        90
+      ],
+      "storage_range_str": "80-90%",
+      "days_in_zone": 1311,
+      "release_mean": 330.1201754385965,
+      "release_median": 309.0,
+      "release_p25": 271.0,
+      "release_p75": 372.0,
+      "release_min": 111.0,
+      "release_max": 743.0,
+      "avg_storage_af": 90082.3819221968
+    },
+    {
+      "zone_name": "Zone_5",
+      "storage_range": [
+        90,
+        99.88988235294117
+      ],
+      "storage_range_str": "90-100%",
+      "days_in_zone": 907,
+      "release_mean": 493.8317309812569,
+      "release_median": 424.0,
+      "release_p25": 360.0,
+      "release_p75": 545.0,
+      "release_min": 247.0,
+      "release_max": 1830.0,
+      "avg_storage_af": 99919.72877618522
+    }
+  ],
+  "seasonal_patterns": {
+    "high_variability_months": [
+      4,
+      5,
+      6,
+      7,
+      9,
+      10
+    ],
+    "low_variability_months": [
+      1,
+      2,
+      3,
+      8,
+      11,
+      12
+    ],
+    "cv_threshold": 0.30806157879919105
+  },
+  "special_conditions": {
+    "conservation": {
+      "condition": "Inflow \u226469 cfs + Storage 50-80%",
+      "days": 2818,
+      "avg_release": 98.24796543647979,
+      "release_range": [
+        73.0,
+        101.0
+      ]
+    },
+    "refill": {
+      "condition": "Inflow \u2265189 cfs + Storage \u226463%",
+      "days": 369,
+      "avg_release": 315.8010487804878,
+      "release_range": [
+        132.26,
+        470.0
+      ]
+    },
+    "spillway": {
+      "condition": "Storage \u226595%",
+      "days": 345,
+      "avg_release": 616.6260869565217,
+      "release_range": [
+        415.0,
+        684.0
+      ]
+    },
+    "drought": {
+      "condition": "Inflow \u226453 cfs (bottom 10%)",
+      "days": 1258,
+      "avg_release": 98.46624936406995,
+      "release_range": [
+        58.925,
+        101.0
+      ]
+    }
+  },
+  "thresholds": {
+    "inflow_p25": 69.266075,
+    "inflow_p75": 189.4065,
+    "inflow_p10": 52.81,
+    "storage_p25": 62.689882352941176,
+    "storage_p75": 75.15011764705882
+  },
+  "validation": {
+    "storage_release_corr": 0.6040112245987614,
+    "inflow_release_corr": 0.6905772513037053,
+    "data_coverage": 0.9999202678998564
+  }
+}
