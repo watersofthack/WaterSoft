@@ -1,0 +1,5 @@
+Condition,Trigger_Conditions,Typical_Release,Release_Range,Days_Observed,Frequency_Percent
+Conservation,Inflow ≤69 cfs + Storage 50-80%,98 cfs,73-101 cfs,2818,22.5%
+Refill,Inflow ≥189 cfs + Storage ≤63%,316 cfs,132-470 cfs,369,2.9%
+Spillway,Storage ≥95%,617 cfs,415-684 cfs,345,2.8%
+Drought,Inflow ≤53 cfs (bottom 10%),98 cfs,59-101 cfs,1258,10.0%

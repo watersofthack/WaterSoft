@@ -1,0 +1,3 @@
+Season,Months,CV_Classification,Observed_Pattern
+High Variability Period,"Apr, May, Jun, Jul, Sep, Oct",CV > 0.308,More variable releases
+Low Variability Period,"Jan, Feb, Mar, Aug, Nov, Dec",CV ≤ 0.308,More consistent releases
