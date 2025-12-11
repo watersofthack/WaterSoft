@@ -5,6 +5,7 @@ Welcome to **WaterSoftHack** —a recurring two-week hackathon for water science
 This repository serves as a landing page and introduction to the **WaterSoft Package**, developed as part of the WaterSoftHack training program. Please acknowledge use below citation and cknolwedge our effort when you use these freely accessable modules**. 
 
 watersofthack. (n.d.). WaterSoft Python Package. GitHub. https://github.com/watersofthack/WaterSoft/blob/main/README.md
+
 ---
 
 ## Repository Structure
