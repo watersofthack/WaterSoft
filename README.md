@@ -6,6 +6,8 @@ This repository serves as a landing page and introduction to the **WaterSoft Pac
 
 watersofthack. (n.d.). WaterSoft Python Package. GitHub. https://github.com/watersofthack/WaterSoft/blob/main/README.md
 
+**WaterSoft Sustainability Plan**
+
 **Project Leads**: The PIs Provide strategic direction, oversee scientific and technical integrity, approve major releases, and ensure alignment with WaterSoftHack training objectives and NSF deliverables.
 
 **Core Developers**: Our team maintain core WaterSoft modules, review and merge pull requests, manage software releases, and ensure code quality, documentation, and reproducibility.
