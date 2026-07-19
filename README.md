@@ -57,5 +57,4 @@ Explore more [**here**](/Machine%20Learning/README.md).
 
 ## 3. Cloud Computing
 
-*(Coming soon)*  
-This section will include tutorials and tools for deploying data analytics and machine learning models in cloud environments.
+Training materials, tutorials, and example notebooks for cloud and edge computing are available in the WaterSoft GitHub repository. Please review them to maximize your learning experience.
