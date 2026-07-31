@@ -1,0 +1,11 @@
+site_id,site_name,latitude,longitude,site_type,state,county,huc,basin_code,altitude_ft,vertical_datum,drainage_area_sqmi,contributing_area_sqmi,time_zone
+08193000,"Nueces Rv nr Asherton, TX",28.5002631324022,-99.6819934612521,Stream,Texas,Dimmit County,121101030306,,470.53,North American Vertical Datum of 1988,4082.0,4082.0,CST
+08194000,"Nueces Rv at Cotulla, TX",28.4263788858401,-99.2400322354091,Stream,Texas,La Salle County,121101050201,,368.19,North American Vertical Datum of 1988,5171.0,5171.0,CST
+08194500,"Nueces Rv nr Tilden, TX",28.3088890560202,-98.5572384002473,Stream,Texas,McMullen County,121101051105,,183.1,North American Vertical Datum of 1988,8093.0,8093.0,CST
+08205500,"Frio Rv nr Derby, TX",28.736644289516,-99.1447556457266,Stream,Texas,Frio County,121101061205,,449.05,North American Vertical Datum of 1988,3429.0,3429.0,CST
+08206600,"Frio Rv at Tilden, TX",28.4674927922804,-98.5475173731209,Stream,Texas,McMullen County,121101080501,,212.66,North American Vertical Datum of 1988,4493.0,4493.0,CST
+08206700,"San Miguel Ck nr Tilden, TX",28.5874878693366,-98.54585128707,Stream,Texas,McMullen County,121101090503,,242.56,North American Vertical Datum of 1988,783.0,783.0,CST
+08206900,"Choke Canyon Res nr Three Rivers, TX",28.4838811108516,-98.2458419627888,"Lake, Reservoir, Impoundment",Texas,Live Oak County,121101080505,,0.0,National Geodetic Vertical Datum of 1929,5490.0,5490.0,CST
+08208000,"Atascosa Rv at Whitsett, TX",28.6222089930774,-98.281398821235,Stream,Texas,Live Oak County,12110111,,158.71,North American Vertical Datum of 1988,1171.0,1171.0,CST
+08210000,"Nueces Rv nr Three Rivers, TX",28.4274954547988,-98.1780625180755,Stream,Texas,Live Oak County,121101110101,,166.31,North American Vertical Datum of 1988,15427.0,15427.0,CST
+08210100,"Nueces Rv at George West, TX",28.3327777777778,-98.0855555555555,Stream,Texas,Live Oak County,121101110204,,69.58,North American Vertical Datum of 1988,15724.0,15724.0,CST

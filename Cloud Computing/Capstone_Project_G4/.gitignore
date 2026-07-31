@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Editors and notebooks
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+# Generated datasets
+data/raw/
+data/interim/
+data/processed/
+
+# Keep directory structure
+!data/raw/.gitkeep
+!data/interim/.gitkeep
+!data/processed/.gitkeep
+
+# Generated figures
+docs/figures/
