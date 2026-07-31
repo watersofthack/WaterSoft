@@ -17,8 +17,7 @@ long short-term memory (LSTM) predictions.
 The project has two complementary evaluation components:
 
 1. **Historical-event evaluation:** major floods are identified from USGS
-   observations and compared with NWM v3.0 retrospective simulations and
-   LSTM predictions.
+   observations and compared with LSTM predictions.
 2. **Near-real-time evaluation:** the previous seven days of operational NWM
    Analysis and Assimilation output are joined to the latest Short-Range
    forecast. NWM and LSTM forecasts are then compared over a common forecast
